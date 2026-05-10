@@ -82,6 +82,8 @@ body {
   transition: color 0.2s;
 }
 .nav-links a:hover { color: var(--text); }
+.nav-links a.btn { color: #fff; }
+.nav-links a.btn:hover { color: #fff; }
 
 /* ─── Hero ──────────────────────────────────────────────────────────────── */
 .hero {
